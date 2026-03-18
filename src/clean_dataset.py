@@ -2,7 +2,6 @@ import json
 import os
 from pathlib import Path
 
-# project root
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
 INPUT_DIR = ROOT_DIR / "data"
@@ -29,10 +28,15 @@ def clean_action(action):
 
     operation = action.get("operation", {})
 
+    target = extract_target(action.get("pos_candidates", []))
+
+    if target is None:
+        return None
+
     return {
         "action_type": operation.get("op"),
         "value": operation.get("value"),
-        "target_element": extract_target(action.get("pos_candidates", []))
+        "target_element": target
     }
 
 
@@ -45,7 +49,10 @@ def clean_instance(instance):
     }
 
     for action in instance.get("actions", []):
-        cleaned["actions"].append(clean_action(action))
+        cleaned_action = clean_action(action)
+
+        if cleaned_action is not None:
+            cleaned["actions"].append(cleaned_action)
 
     return cleaned
 

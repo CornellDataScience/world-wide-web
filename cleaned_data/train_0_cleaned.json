@@ -286,11 +286,6 @@
     "website": "enterprise",
     "actions": [
       {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
         "action_type": "TYPE",
         "value": "Allan",
         "target_element": {
@@ -389,11 +384,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "button",
           "attributes": "{\"backend_node_id\": \"73248\", \"bounding_box_rect\": \"554.25,773.53125,50,50\", \"class\": \"rs-calendar__day \", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -451,11 +441,6 @@
     "task": "Find the highest rated dog collar under 10 dollar.",
     "website": "kohls",
     "actions": [
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
       {
         "action_type": "CLICK",
         "value": "",
@@ -969,11 +954,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "div",
           "attributes": "{\"backend_node_id\": \"20789\", \"bounding_box_rect\": \"10,788.96875,205,30\", \"class\": \"facets_section_name\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -1331,11 +1311,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "select-checkbox",
           "attributes": "{\"backend_node_id\": \"72464\", \"bounding_box_rect\": \"524,825,26,26\", \"value\": \"comedy\", \"role\": \"checkbox\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -1639,21 +1614,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "td",
           "attributes": "{\"backend_node_id\": \"62922\", \"bounding_box_rect\": \"740,263,37,37\", \"class\": \"current-month gj-cursor-pointer\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -1710,11 +1670,6 @@
           "attributes": "{\"backend_node_id\": \"12687\", \"bounding_box_rect\": \"639.5,108,300.75,122\", \"class\": \"subnavbar__link subnavbar__link_4\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "12687"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -1805,11 +1760,6 @@
           "attributes": "{\"backend_node_id\": \"70110\", \"bounding_box_rect\": \"370,1761.265625,202,62\", \"class\": \"webform-button--next button js-form-submit form-submit\", \"type\": \"submit\", \"id\": \"edit-actions-wizard-next\", \"name\": \"op\", \"value\": \"Continue\", \"input_value\": \"Continue\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "70110"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "TYPE",
@@ -2951,11 +2901,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "a",
           "attributes": "{\"backend_node_id\": \"9988\", \"bounding_box_rect\": \"1056,507.59375,185,36\", \"class\": \"Zz9D2 aPPf7 jtEAE lBssT\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -3003,11 +2948,6 @@
           "attributes": "{\"backend_node_id\": \"3492\", \"bounding_box_rect\": \"396,278.59375,37,24\", \"class\": \"C045C aPPf7 jtEAE lBssT\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "3492"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -3077,11 +3017,6 @@
           "attributes": "{\"backend_node_id\": \"21723\", \"bounding_box_rect\": \"1106,700,98,34\", \"class\": \"btn btn-default buy-btn\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "21723"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -3326,21 +3261,11 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "a",
           "attributes": "{\"backend_node_id\": \"26988\", \"bounding_box_rect\": \"33,615,123.328125,24\", \"class\": \"d-block my-2 text-body   group-cat-link h4\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "26988"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -3997,11 +3922,6 @@
         }
       },
       {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
         "action_type": "SELECT",
         "value": "Newest",
         "target_element": {
@@ -4051,11 +3971,6 @@
           "attributes": "{\"backend_node_id\": \"28933\", \"bounding_box_rect\": \"529.015625,476.796875,133.984375,52\", \"class\": \"sb-date-field__icon sb-date-field__icon-btn bk-svg-wrapper calendar-restructure-sb\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "28933"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -4441,21 +4356,11 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "label",
           "attributes": "{\"backend_node_id\": \"39555\", \"bounding_box_rect\": \"986.34375,306.5,37,37\", \"class\": \"btn\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "39555"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "TYPE",
@@ -4625,11 +4530,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "label",
           "attributes": "{\"backend_node_id\": \"10293\", \"bounding_box_rect\": \"1159,176,65,56\", \"class\": \"c1l3w0tx dir dir-ltr\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -4671,21 +4571,6 @@
           "attributes": "{\"backend_node_id\": \"49100\", \"bounding_box_rect\": \"795.203125,144,148.3125,66\", \"class\": \"b192dx2b b174x59c bkmyqgh dir dir-ltr\", \"role\": \"button\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "49100"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -4803,11 +4688,6 @@
           "attributes": "{\"backend_node_id\": \"8194\", \"bounding_box_rect\": \"372,982,256,40\", \"title\": \"View Inventory\", \"class\": \"tds-btn tcl-button tds-btn--secondary tcl-button--secondary\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "8194"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -5225,11 +5105,6 @@
           "attributes": "{\"backend_node_id\": \"11413\", \"bounding_box_rect\": \"581.515625,883.171875,34.25,19.59375\", \"class\": \"fr-ec-body fr-ec-body--color-primary-dark fr-ec-body--small fr-ec-text-align-left fr-ec-text-transform-normal\", \"title\": \"Price\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "11413"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       }
     ]
   },
@@ -5516,11 +5391,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "a",
           "attributes": "{\"backend_node_id\": \"12557\", \"bounding_box_rect\": \"40,767.34375,195.1875,62\", \"class\": \"link pb-1 mb-0 d-inline-block\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -5562,11 +5432,6 @@
           "attributes": "{\"backend_node_id\": \"40469\", \"bounding_box_rect\": \"1078.65625,323.578125,189.328125,47.171875\", \"class\": \"btn btn-primary btn-block btn-storelocator-search\", \"type\": \"submit\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "40469"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       }
     ]
   },
@@ -5591,11 +5456,6 @@
           "attributes": "{\"backend_node_id\": \"10403\", \"bounding_box_rect\": \"330.390625,720.203125,226.140625,237\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "10403"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "CLICK",
@@ -6370,11 +6230,6 @@
           "attributes": "{\"backend_node_id\": \"13453\", \"bounding_box_rect\": \"40,3828.609375,155,232.5\", \"class\": \"w:100%\", \"alt\": \"Black Panther: Wakanda Forever, MOVIE on , , , Action, Adventure, Sci-Fi & Fantasy\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "13453"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       }
     ]
   },
@@ -6499,11 +6354,6 @@
       {
         "action_type": "CLICK",
         "value": "",
-        "target_element": null
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
         "target_element": {
           "tag": "a",
           "attributes": "{\"backend_node_id\": \"17025\", \"bounding_box_rect\": \"292,296,320,48\", \"class\": \"eds-event-card-content__action-link\", \"aria_label\": \"\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
@@ -6602,11 +6452,6 @@
           "attributes": "{\"backend_node_id\": \"90\", \"bounding_box_rect\": \"691.6875,124.84375,95.046875,20\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
           "backend_node_id": "90"
         }
-      },
-      {
-        "action_type": "CLICK",
-        "value": "",
-        "target_element": null
       },
       {
         "action_type": "TYPE",
