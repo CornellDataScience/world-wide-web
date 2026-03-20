@@ -1,0 +1,470 @@
+[
+  {
+    "task": "Find the results of the most recent NFL games.",
+    "website": "sports.yahoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"170\", \"bounding_box_rect\": \"339,117.5,27,17\", \"class\": \"_yb_1larr   rapid-noclick-resp\", \"id\": \"root_3\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "170"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"5124\", \"bounding_box_rect\": \"155,155,114,16\", \"class\": \"nr-applet-nav-item Td(n) Fz(13px) Fw(b) C(#000) C($c-fuji-grey-f):h Td(n) Lh(34px)\", \"title\": \"Scores/Schedule\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "5124"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Find the list of injured NBA players.",
+    "website": "sports.yahoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"105\", \"bounding_box_rect\": \"398,117.5,31,17\", \"class\": \"_yb_1larr   rapid-noclick-resp\", \"id\": \"root_4\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "105"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Follow the Denver Nuggets NBA team.",
+    "website": "sports.yahoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"117\", \"bounding_box_rect\": \"398,117.5,31,17\", \"class\": \"_yb_12l1d   rapid-noclick-resp\", \"id\": \"root_4\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "117"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"19606\", \"bounding_box_rect\": \"588,234.171875,86,29\", \"class\": \"follow-button Mstart(10px) D(ib) Va(m) P(6px) Bdrs(20px)                 Whs(nw) Fw(600) Bdw(1px) Bds(s) Fz(12px) C(#fff) Bgc($c-fuji-blue-1-a) Bdc($c-fuji-blue-1-a)\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "19606"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Find the current roster of the Miami Heat.",
+    "website": "sports.yahoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"96\", \"bounding_box_rect\": \"398,117.5,31,17\", \"class\": \"_yb_12l1d   rapid-noclick-resp\", \"id\": \"root_4\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "96"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"18346\", \"bounding_box_rect\": \"210,451.5,42,42.03125\", \"class\": \"M(0) Bd(n) Fz(13px) Px(0) C(primary-text) Td(n) Py(12px) D(ib)\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "18346"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Add a set of sonoma bath towels to the cart and apply a coupon code for free shipping.",
+    "website": "kohls",
+    "actions": [
+      {
+        "action_type": "TYPE",
+        "value": "bath towels",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"159\", \"bounding_box_rect\": \"248.859375,56,459,44\", \"type\": \"text\", \"placeholder\": \"Hi James, what are you looking for today?\", \"class\": \"input-text\", \"id\": \"search\", \"name\": \"search\", \"input_value\": \"\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "159"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"8917\", \"bounding_box_rect\": \"193,115,245,30.890625\", \"id\": \"K1000_0\", \"class\": \"suggestion\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "8917"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "img",
+          "attributes": "{\"backend_node_id\": \"12690\", \"bounding_box_rect\": \"252.296875,428.171875,240,240\", \"alt\": \"Sonoma Goods For Life Ultimate Bath Towel with Hygro Technology\", \"class\": \"pmp-hero-img\", \"title\": \"Sonoma Goods For Life Ultimate Bath Towel with Hygro Technology\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "12690"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"21732\", \"bounding_box_rect\": \"857.984375,664.375,114,38.1875\", \"class\": \"pdp-size-swatch active\", \"title\": \"BATH TOWEL\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "21732"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"38683\", \"bounding_box_rect\": \"983.578125,813.75,208.59375,56\", \"type\": \"button\", \"title\": \"Add To Cart\", \"alt\": \"Add To Cart\", \"class\": \"pdp-addtobag\", \"id\": \"addtobagID\", \"name\": \"pdp-addtobag\", \"value\": \"Add to Cart\", \"input_value\": \"Add to Cart\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "38683"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"56423\", \"bounding_box_rect\": \"647.75,608.5,274,48\", \"class\": \"btn btn-primary\", \"title\": \"View Cart & Checkout\", \"id\": \"button-panel87432638\", \"aria_label\": \"View Cart & Checkout\", \"type\": \"button\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "56423"
+        }
+      },
+      {
+        "action_type": "TYPE",
+        "value": "FREESHIP3093",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"65578\", \"bounding_box_rect\": \"149,607.15625,355.15625,42\", \"type\": \"text\", \"name\": \"promoCode\", \"aria_label\": \"Add Kohl's Cash or Coupons\", \"placeholder\": \"\", \"class\": \"kcCodeTxt required action-panel-kc-number\", \"id\": \"panel1102\", \"input_value\": \"\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "65578"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"69715\", \"bounding_box_rect\": \"589.265625,618.15625,88,32\", \"title\": \"Add\", \"class\": \"btn btn-secondary\", \"id\": \"button-panel1104\", \"aria_label\": \"Add Kohl's Cash or Coupon button\", \"type\": \"button\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "69715"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Find a luxury trip deal anywhere to go in spring",
+    "website": "travelzoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"101\", \"bounding_box_rect\": \"125.5,140,504.484375,60\", \"id\": \"what-field-1\", \"class\": \"input-clear js-input-clear ui-autocomplete-input\", \"type\": \"text\", \"placeholder\": \"e.g. Hotels, beach, Disney\", \"value\": \"All Deals\", \"input_value\": \"\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "101"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"8394\", \"bounding_box_rect\": \"126,645,495.46875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "8394"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"14798\", \"bounding_box_rect\": \"643.46875,238,495.46875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "14798"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"16140\", \"bounding_box_rect\": \"750,20,250,40\", \"id\": \"when-field-1\", \"type\": \"text\", \"placeholder\": \"Anytime...\", \"value\": \"All Dates\", \"input_value\": \"All Dates\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "16140"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"30713\", \"bounding_box_rect\": \"597.5,101,64,37\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "30713"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"45267\", \"bounding_box_rect\": \"1010,20,40,40\", \"id\": \"search-button-1\", \"type\": \"submit\", \"title\": \"Search\", \"class\": \"highlight\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "45267"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Find hotel deals in Las Vegas for four adults starting on May 17 and ending on May 20, and if deal is not available, set an alert for the same.",
+    "website": "travelzoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"93\", \"bounding_box_rect\": \"125.5,140,504.484375,60\", \"id\": \"what-field-1\", \"class\": \"input-clear js-input-clear ui-autocomplete-input\", \"type\": \"text\", \"placeholder\": \"e.g. Hotels, beach, Disney\", \"value\": \"All Deals\", \"input_value\": \"All Deals\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "93"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"8218\", \"bounding_box_rect\": \"277.125,387,572.46875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "8218"
+        }
+      },
+      {
+        "action_type": "TYPE",
+        "value": "las vegas",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"12940\", \"bounding_box_rect\": \"387.734375,140,242.234375,60\", \"id\": \"where-field-1\", \"class\": \"input-clear js-input-clear ui-autocomplete-input\", \"type\": \"text\", \"placeholder\": \"Start typing or select a destination\", \"input_value\": \"\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "12940"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"22282\", \"bounding_box_rect\": \"539.375,350,310.21875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "22282"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"26954\", \"bounding_box_rect\": \"649.96875,140,242.234375,60\", \"id\": \"when-field-1\", \"type\": \"text\", \"placeholder\": \"Anytime...\", \"value\": \"All Dates\", \"input_value\": \"All Dates\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "26954"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"33960\", \"bounding_box_rect\": \"1016.96875,529.5,50,50\", \"class\": \"ui-state-default\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "33960"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"40998\", \"bounding_box_rect\": \"1169.96875,529.5,50,50\", \"class\": \"ui-state-default\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "40998"
+        }
+      },
+      {
+        "action_type": "SELECT",
+        "value": "4 Guests",
+        "target_element": {
+          "tag": "select",
+          "attributes": "{\"backend_node_id\": \"48003\", \"bounding_box_rect\": \"912.203125,140,242.234375,60\", \"id\": \"guests-field-1\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "48003"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"54934\", \"bounding_box_rect\": \"1174.5,140,60,60\", \"id\": \"search-button-1\", \"type\": \"submit\", \"title\": \"Search\", \"class\": \"highlight\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "54934"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"58562\", \"bounding_box_rect\": \"517.5,695.265625,245,40\", \"type\": \"button\", \"class\": \"button-alert dest-alerts-off text-uppercase js-btnAlert hidden-xs\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "58562"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Show most expensive cruise deals in Europe and Mediterranean.",
+    "website": "travelzoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"655\", \"bounding_box_rect\": \"824.8125,240,154.828125,50\", \"class\": \"no-touch\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "655"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "a",
+          "attributes": "{\"backend_node_id\": \"4236\", \"bounding_box_rect\": \"859.8125,293,399.65625,199.828125\", \"title\": \"Europe & Mediterranean Cruises\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "4236"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"7022\", \"bounding_box_rect\": \"20.5,639.984375,80,30\", \"type\": \"button\", \"id\": \"refine-search-toggle\", \"class\": \"button-refine-search\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "7022"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "div",
+          "attributes": "{\"backend_node_id\": \"18682\", \"bounding_box_rect\": \"709.890625,739.5625,137.796875,60\", \"role\": \"button\", \"class\": \"btn-group-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "18682"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"23253\", \"bounding_box_rect\": \"906.5,1070.75,82,40\", \"type\": \"button\", \"class\": \"button-primary button-done right\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "23253"
+        }
+      }
+    ]
+  },
+  {
+    "task": "Show me the most expensive things to do anywhere in December in a map",
+    "website": "travelzoo",
+    "actions": [
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"114\", \"bounding_box_rect\": \"125.5,140,504.484375,60\", \"id\": \"what-field-1\", \"class\": \"input-clear js-input-clear ui-autocomplete-input\", \"type\": \"text\", \"placeholder\": \"e.g. Hotels, beach, Disney\", \"value\": \"All Deals\", \"input_value\": \"All Deals\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "114"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"8292\", \"bounding_box_rect\": \"126,663,495.46875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "8292"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"14686\", \"bounding_box_rect\": \"643.46875,426,495.46875,37\", \"class\": \"ui-menu-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "14686"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "input",
+          "attributes": "{\"backend_node_id\": \"16016\", \"bounding_box_rect\": \"750,20,250,40\", \"id\": \"when-field-1\", \"type\": \"text\", \"placeholder\": \"Anytime...\", \"value\": \"All Dates\", \"input_value\": \"All Dates\", \"is_clickable\": \"true\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "16016"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "h3",
+          "attributes": "{\"backend_node_id\": \"30672\", \"bounding_box_rect\": \"278.5,139,758,37\", \"class\": \"ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons\", \"role\": \"tab\", \"id\": \"ui-id-7\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "30672"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "li",
+          "attributes": "{\"backend_node_id\": \"45323\", \"bounding_box_rect\": \"387.5,175,89,37\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "45323"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"59989\", \"bounding_box_rect\": \"260,248.390625,80,30\", \"type\": \"button\", \"id\": \"refine-search-toggle\", \"class\": \"button-refine-search\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "59989"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "div",
+          "attributes": "{\"backend_node_id\": \"81782\", \"bounding_box_rect\": \"709.890625,313.5625,137.796875,60\", \"role\": \"button\", \"class\": \"btn-group-item\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "81782"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"89586\", \"bounding_box_rect\": \"906.5,776.75,82,40\", \"type\": \"button\", \"class\": \"button-primary button-done right\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "89586"
+        }
+      },
+      {
+        "action_type": "CLICK",
+        "value": "",
+        "target_element": {
+          "tag": "button",
+          "attributes": "{\"backend_node_id\": \"105162\", \"bounding_box_rect\": \"125,248.390625,125,30\", \"type\": \"button\", \"id\": \"maplist-toggle\", \"class\": \"maplist-toggle\", \"data_pw_testid_buckeye_candidate\": \"1\"}",
+          "backend_node_id": "105162"
+        }
+      }
+    ]
+  }
+]
