@@ -5,7 +5,7 @@ from pathlib import Path
 # Set up root and data directories
 ROOT_DIR = Path(__file__).resolve().parent.parent
 INPUT_DIR = ROOT_DIR / "data"
-OUTPUT_DIR = ROOT_DIR / "cleaned_data"
+OUTPUT_DIR = ROOT_DIR / "data" / "processed"
 
 # Create output directory if it doesn't exist
 OUTPUT_DIR.mkdir(exist_ok=True)
