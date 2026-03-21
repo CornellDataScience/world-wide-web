@@ -11,5 +11,14 @@ class WebAction:
     #string value for typing
     value: str = ""
 
-    #Need methods to parse an action from the data
+    #Takes raw dict data and converts target of the action to a DOM Tree
+    def from_raw(cls, raw: dict[str, Any]) -> "WebAction":
+        doc: Document = minidom.Document()
+        elem = element_from_raw(raw.get("target_element", {}), doc)
+        doc.appendChild(elem)
+        return cls(
+            action_type=ActionType(raw["action_type"]),
+            target=elem,
+            value=raw.get("value", ""),
+        )
 
